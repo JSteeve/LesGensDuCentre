@@ -3,7 +3,6 @@
 Site communautaire dédié au **Département du Centre (Haïti)**. Il présente l'actualité, la géographie, la culture et la vie de la communauté, pour les habitants comme pour la diaspora.
 
 🔗 **Site en ligne :** https://les-gens-du-centre.web.app
-🌐 **Domaine :** lesgensducentre.com *(acheté chez Hostinger, pas encore connecté)*
 
 ---
 
@@ -56,8 +55,12 @@ Site communautaire dédié au **Département du Centre (Haïti)**. Il présente 
 - [ ] Connecter le domaine `lesgensducentre.com` à Firebase Hosting (configuration DNS)
 - [ ] Terminer la recherche Wikipédia en temps réel pour la lightbox des images
 - [ ] Décider si le système de dons MonCash / Natcash est réactivé (actuellement en commentaire)
-- [ ] *(Ajouter d'autres tâches ici)*
-- [ ] *(Ajouter d'autres tâches ici)*
+- [ ] Finaliser la **Division Géographique**
+- [ ] Créer la page **Sites Historiques**
+- [ ] Créer la page **Personnalités**
+- [ ] Créer la page **Économie**
+- [ ] Créer la page **Business**
+- [ ] Créer la page **Blog**
 
 ---
 
@@ -71,7 +74,3 @@ firebase deploy
 ## 👤 Auteur
 
 **Steeve** — créateur et administrateur de Les Gens du Centre.
-
-## 📄 Licence
-
-*(Choisir une licence, par exemple MIT, ou supprimer cette section.)*
